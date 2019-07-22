@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: UWMD Monthly Newsletters
- * Plugin URI: https://github.com/itskriz/uwmd-newsletters
+ * Plugin URI: https://github.com/itskriz/uwmd-newsletter
  * Description: A plugin that adds a monthly newsletter archive to the website
  * Version: 1.0
  * Author: Kris Williams / Roar Media
